@@ -1,0 +1,22 @@
+{
+  "tournament": {
+    "name": "Tournament Loading...",
+    "date": "",
+    "mode": "classic",
+    "subType": "Squad",
+    "format": "",
+    "totalMatches": 0,
+    "finalizedMatches": 0,
+    "totalTeams": 0,
+    "lastUpdated": ""
+  },
+  "officials": [],
+  "matches": [],
+  "leaderboard": [],
+  "mvp": null,
+  "meta": {
+    "generatedBy": "BGMI eSports Tournament Manager",
+    "version": "4.0",
+    "timestamp": 0
+  }
+}
